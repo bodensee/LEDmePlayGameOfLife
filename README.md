@@ -1,5 +1,4 @@
-# LEDmePlayGameOfLife
-Conway's Game of Life for LEDmePlay
+# Conway's Game of Life for LEDmePlay
 
 See:
 - http://mithotronic.de/ledmeplay.php
